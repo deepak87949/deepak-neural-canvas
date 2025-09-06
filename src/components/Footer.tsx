@@ -31,7 +31,7 @@ const Footer = () => {
               asChild
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              <a href="https://linkedin.com/in/deepakgowda" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/deepak-gowda-80355a239" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-4 w-4 mr-2" />
                 LinkedIn
               </a>
@@ -63,7 +63,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="pt-6 border-t border-border/10">
             <p className="text-sm text-muted-foreground">
-              © 2024 Deepak Gowda. Built with neural networks and good vibes.
+              © 2024 Deepak S. Built with neural networks and good vibes.
             </p>
           </div>
         </div>

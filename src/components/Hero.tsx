@@ -72,7 +72,7 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-neural opacity-50 blur-md animate-glow-pulse"></div>
               <img 
                 src={deepakProfile}
-                alt="Deepak Gowda"
+                alt="Deepak S"
                 className="relative w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-2 border-primary/30 shadow-neural"
               />
             </div>
@@ -81,7 +81,7 @@ const Hero = () => {
           {/* Title */}
           <h1 className="text-5xl md:text-7xl font-bold font-space mb-6 animate-fade-in-up">
             <span className="bg-gradient-neural bg-clip-text text-transparent">
-              Deepak Gowda
+              Deepak S
             </span>
           </h1>
 

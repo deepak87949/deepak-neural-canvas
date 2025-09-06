@@ -26,8 +26,8 @@ const About = () => {
           <div className="glass rounded-2xl p-8 md:p-12 animate-fade-in-up">
             <p className="text-lg md:text-xl leading-relaxed text-foreground/90">
               Currently working as <span className="text-primary font-semibold">Technology Assistant at IT for Change</span>, 
-              while pursuing my <span className="text-secondary font-semibold">Masters in AI at Amrita University</span>. 
-              Skilled in Linux, AI automation, NLP, troubleshooting, and responsible AI usage.
+              while pursuing my <span className="text-secondary font-semibold">Online MCA in AI at Amrita University</span>. 
+              Specialized in Linux system configuration, FOSS tools training, AI automation, and MediaWiki management.
             </p>
             
             <div className="w-16 h-1 bg-gradient-neural mx-auto my-8 rounded-full"></div>
