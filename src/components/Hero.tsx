@@ -101,7 +101,7 @@ const Hero = () => {
               className="neural-glow bg-gradient-neural text-primary-foreground font-semibold px-8 py-3 rounded-full"
               asChild
             >
-              <a href="/assets/Deepak_Gowda_Resume.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/assets/Deepak_Gowda_Resume.pdf" download="Deepak_S_Resume.pdf">
                 Download Resume
               </a>
             </Button>

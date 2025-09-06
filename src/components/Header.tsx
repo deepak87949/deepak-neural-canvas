@@ -39,7 +39,7 @@ const Header = () => {
             asChild
             className="text-foreground/80 hover:text-primary"
           >
-            <a href="/assets/Deepak_Gowda_Resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/assets/Deepak_Gowda_Resume.pdf" download="Deepak_S_Resume.pdf">
               Resume
             </a>
           </Button>

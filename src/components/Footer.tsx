@@ -19,7 +19,7 @@ const Footer = () => {
               asChild
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              <a href="/assets/Deepak_Gowda_Resume.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/assets/Deepak_Gowda_Resume.pdf" download="Deepak_S_Resume.pdf">
                 <FileText className="h-4 w-4 mr-2" />
                 Resume
               </a>
